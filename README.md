@@ -1,5 +1,5 @@
 # Yaru Dark Matte for Firefox
-A firefox theme adaptation of [Ubuntu Yaru dark](https://github.com/ubuntu/yaru) variation imbued with matte accent, and a subtle minimalism. The theme will be updated if it breaks as Ubuntu pushes new updates to Yaru theme. 
+A firefox theme adaptation of [Ubuntu Yaru dark](https://github.com/ubuntu/yaru) variation imbued with matte accent, and a subtle minimalism. The theme will be updated if the colors break when Ubuntu pushes new update to Yaru theme. 
 
 ## Screenshot
 ![Yaru dark matte theme screenshot](./images/screenshot_firefox_yaru_matte.png)
