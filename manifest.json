@@ -11,7 +11,7 @@
       "frame_inactive": "rgba(62, 62, 62, 1)",
       "ntp_background": "rgba(36, 36, 36, 1)",
       "ntp_text": "rgba(251, 251, 251, 1)",
-      "icons_attention": "rgba(214, 116, 194, 1)",
+      "icons_attention": "rgba(180, 87, 172, 1)",
       "button_background_hover": "rgba(251, 251, 251, 0.1)",
       "button_background_active": "rgba(251, 251, 251, 0.2)",
       "bookmark_text": "rgba(251, 251, 251, 1)",
