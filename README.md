@@ -14,7 +14,7 @@ Each color is picked and matte-yfied to adapt with Yaru dark theme.
 
 | Color | Hex code | Used for |
 |-------|----------|-----------|
-| Gunpowder Gray |![#303030](https://via.placeholder.com/15/303030/000000?text=+) `#303030`| Header |
+| Full brightness in a minecraft |![#2c2c2c](https://via.placeholder.com/15/2c2c2c/000000?text=+) `#2c2c2c`| Header |
 | Nero |![#242424](https://via.placeholder.com/15/242424/000000?text=+) `#242424`| New tab |
 | Tenne |![#d85600](https://via.placeholder.com/15/d85600/000000?text=+) `#d85600`| Accent |
-| Orchid |![#d674c2](https://via.placeholder.com/15/d674c2/000000?text=+) `#d674c2`| Flash |
+| Fuchsia |![#b457ac](https://via.placeholder.com/15/b457ac/000000?text=+) `#b457ac`| Flash |
