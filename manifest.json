@@ -17,13 +17,13 @@
       "bookmark_text": "rgba(251, 251, 251, 1)",
       "tab_text": "rgba(251, 251, 251, 1)",
       "tab_background_text": "rgba(220, 220, 220, 1)",
-      "tab_line": "rgba(216, 86, 0, 1)",
-      "tab_loading": "rgba(216, 86, 0, 1)",
+      "tab_line": "rgba(242, 48, 0, 1)",
+      "tab_loading": "rgba(242, 48, 0, 1)",
       "tab_background_separator": "rgba(174, 174, 174, 1)",
       "popup": "rgba(36, 36, 36, 1)",
       "popup_text": "rgba(251, 251, 251, 1)",
       "popup_border": "rgba(24, 24, 24, 1)",
-      "popup_highlight": "rgba(216, 86, 0, 1)",
+      "popup_highlight": "rgba(242, 48, 0, 1)",
       "popup_highlight_text": "rgba(251, 251, 251, 1)",
       "toolbar": "rgba(48, 48, 48, 1)",
       "toolbar_text": "rgba(251, 251, 251, 1)",
@@ -38,7 +38,7 @@
       "toolbar_field_border_focus": "rgba(36, 36, 36, 1)",
       "sidebar": "rgba(48, 48, 48, 1)",
       "sidebar_text": "rgba(251, 251, 251, 1)",
-      "sidebar_highlight": "rgba(216, 86, 0, 1)",
+      "sidebar_highlight": "rgba(242, 48, 0, 1)",
       "sidebar_highlight_text": "rgba(251, 251, 251, 1)"
     }
   }
