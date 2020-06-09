@@ -1,0 +1,9 @@
+v1.2004ubuntu4:
+
+- The orange highlighted colors in address bar are more distinctive and darker.
+- Text colors are properly defined.
+
+v1.2004ubuntu2:
+
+- Fixed window header bar color to better match with Yaru.
+- The flash of purple for bookmarking and downloads is now darker and more Ubuntu-ish.
