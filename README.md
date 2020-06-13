@@ -4,7 +4,7 @@ A firefox theme adaptation of [Ubuntu Yaru dark](https://github.com/ubuntu/yaru)
 
 ## Install
 
-[![Install from Firefox store](https://img.shields.io/static/v1?style=for-the-badge&label=Install&message=Firefox&color=f23000&labelColor=303030)](https://addons.mozilla.org/en-US/firefox/addon/ubuntu-yaru-dark-matte)
+[![Install from Firefox store](https://img.shields.io/static/v1?style=for-the-badge&label=Install&message=Firefox&color=f23000&labelColor=303030)](https://addons.mozilla.org/en-US/firefox/addon/ubuntu-yaru-dark-matte)   [![Active users](https://img.shields.io/amo/users/ubuntu-yaru-dark-matte?color=b457ac&labelColor=303030&label=ACTIVE%20USERS&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/ubuntu-yaru-dark-matte)
 
 ## Screenshot
 
