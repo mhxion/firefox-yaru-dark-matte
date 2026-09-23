@@ -10,6 +10,7 @@
       "frame": "rgba(44, 44, 44, 1)",
       "frame_inactive": "rgba(62, 62, 62, 1)",
       "ntp_background": "rgba(36, 36, 36, 1)",
+      "ntp_card_background": "rgba(48, 48, 48, 1)",
       "ntp_text": "rgba(251, 251, 251, 1)",
       "icons": "rgba(251, 251, 251, 1)",
       "icons_attention": "rgba(180, 87, 172, 1)",
