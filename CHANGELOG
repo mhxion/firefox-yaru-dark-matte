@@ -1,3 +1,6 @@
+v1.2004ubuntu5:
+- Fix NTP card background color (PR #3 by @v-p-nicolodi)
+
 v1.2004ubuntu4:
 
 - The orange highlighted colors in address bar are more distinctive and darker.
